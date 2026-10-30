@@ -30,9 +30,20 @@ I build autonomous AI agents, RAG chatbots, and full-stack AI products.
 - **AI Intern** — IWY Tech (remote)
 - **General Secretary** — The Computing Society, UAF (Sep 2025–Sep 2026)
 
-## Achievement
+## Achievements
 
 - **NASA Space Apps Challenge 2025 — Galactic Problem Solver**
+- **MIT Spring Coding Contest 2026 — Top 9% (54th out of 574)**
+- **Stanford Code in Place 2026**
+- **Harvard CS50x Puzzle Day 2026**
+- **Cisco — Introduction to Modern AI**
+- **LabLab AI Hackathons — participant/awards**
+- **Google AI Seekho**
+
+## Publications
+
+- "Post-Quantum Cryptography: Future Proofing The Here and Now" (pp. 241-244)
+- "Neuromorphic Computing: Building AI Systems That Think More Like the Human Brain" — PakTech Today
 
 ## Contact
 
